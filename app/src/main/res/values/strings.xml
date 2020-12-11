@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="albums">Albums</string>
+    <string name="album">Album :</string>
+    <string name="url">Url :</string>
+    <string name="thumbnail_url">Thumbnail Url :</string>
+</resources>
